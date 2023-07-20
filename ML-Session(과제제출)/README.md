@@ -1,1 +1,1 @@
-# Machin Learning session 과제/스터디 진행
+# Machine Learning session 과제/스터디 진행
