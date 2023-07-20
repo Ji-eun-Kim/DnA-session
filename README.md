@@ -1,2 +1,2 @@
-# D&A Basic/Deep session
+# D&A Basic/ML session
 
